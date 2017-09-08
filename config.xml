@@ -12,4 +12,13 @@
 	<author href="#" email="ams@ams.com">
 		Alex Matos
 	</author>
+
+	<icon src="imagens/icon.png" />
+	<gap:splash scr="imagens/splash.png" />
+
+	<preference name="orientation" value="portrait" />
+	<preference name="fullscreen" value="true" />
+	<preference name="permissions" value="none" />
+
+	<gap:platform name="android" />
 </widget>
